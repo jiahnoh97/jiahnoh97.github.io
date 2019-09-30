@@ -12,7 +12,7 @@ theme_settings:
   description: "기술 블로그" # used by search engines
 
   # Header and footer text
-  header_text:
+  header_text: >
   header_text_feature_image: assets/img/seo-2394237_1280.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
