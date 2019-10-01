@@ -13,8 +13,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-   <p>일주일에 한번씩 업로드하는 것을 목표로!</p>
-  header_text_feature_image: assets/img/laptop.jpg
+   <p>Upload once a week</p>
+  header_text_feature_image: assets/img/main.jpg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
    <p><a target="_blank" href="https://icons8.com/icons/set/j">J</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
