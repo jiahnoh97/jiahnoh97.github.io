@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-  header_text_feature_image: assets/img/seo-2394237_1280.jpg
+  header_text_feature_image: assets/img/main.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
    <p><a target="_blank" href="https://icons8.com/icons/set/j">J</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></p>
