@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+title: 블로그를 시작하며
 permalink: /about/
-feature-img: "assets/img/sample_feature_img_2.png"
+feature-img: "assets/img/sample_feature_img_1.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+일본에서 일하기 시작한지 반년이 넘어가고 있습니다.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+사실 일이라기 보다는 외부연수, OJT연수등 연수만 받고 있는 나날이지만 연수를 받으면서 배운 것들이나 
+혼자 공부하면서 느끼는 것들을 블로그로 남겨보고 싶다는 생각이 들었습니다.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+저는 이것저것 하는 것을 좋아하고 어느 것 하나 꾸준히 해 본적이 없습니다. 
+그래서 블로그를 잘 할 수 있을까 걱정뿐이지만 열심히 해보려고 합니다.
