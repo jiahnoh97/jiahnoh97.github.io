@@ -1,6 +1,6 @@
 ---
 layout: page
-title: categories
+title: Categories
 permalink: /categories/
 feature-img: "assets/img/sample_feature_img.png"
 ---
